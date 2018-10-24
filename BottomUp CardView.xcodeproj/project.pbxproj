@@ -12,6 +12,7 @@
 		89A650F52180E48200DA95E5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 89A650F32180E48200DA95E5 /* Main.storyboard */; };
 		89A650F72180E48500DA95E5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 89A650F62180E48500DA95E5 /* Assets.xcassets */; };
 		89A650FA2180E48500DA95E5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 89A650F82180E48500DA95E5 /* LaunchScreen.storyboard */; };
+		89A651022180F58600DA95E5 /* mumbai.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 89A651012180F58600DA95E5 /* mumbai.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		89A650F62180E48500DA95E5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		89A650F92180E48500DA95E5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89A650FB2180E48500DA95E5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		89A651012180F58600DA95E5 /* mumbai.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mumbai.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		89A650EE2180E48200DA95E5 /* BottomUp CardView */ = {
 			isa = PBXGroup;
 			children = (
+				89A651012180F58600DA95E5 /* mumbai.jpg */,
 				89A650EF2180E48200DA95E5 /* AppDelegate.swift */,
 				89A650F12180E48200DA95E5 /* ViewController.swift */,
 				89A650F32180E48200DA95E5 /* Main.storyboard */,
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				89A651022180F58600DA95E5 /* mumbai.jpg in Resources */,
 				89A650FA2180E48500DA95E5 /* LaunchScreen.storyboard in Resources */,
 				89A650F72180E48500DA95E5 /* Assets.xcassets in Resources */,
 				89A650F52180E48200DA95E5 /* Main.storyboard in Resources */,
